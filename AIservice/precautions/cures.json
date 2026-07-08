@@ -1,0 +1,420 @@
+[
+  {
+    "class_name": "Apple___Apple_scab",
+    "disease_name": {
+      "en": "Apple Scab",
+      "te": "ఆపిల్ స్కాబ్ (పొలుసు తెగులు)"
+    },
+    "cures": {
+      "en": "Remove leaves and fruits that show dark green or black spots as soon as you see them so the disease does not spread to healthy leaves and fruits on the tree.\nCollect fallen leaves and infected fruits from the ground every few days and destroy them because the fungus survives in this waste and spreads again during rainy weather.\nSpray recommended fungicides such as captan or myclobutanil regularly during rainy season to protect new leaves and young fruits from infection.\nPrune crowded or overlapping branches so sunlight and fresh air can move freely inside the tree which helps leaves dry quickly after rain.\nAlways water the tree near the roots and avoid sprinkling water on leaves because wet leaves help the fungus grow faster.\nKeep the orchard clean by removing weeds and plant waste so diseases and pests do not easily spread.\nAdd well-decomposed farmyard manure or compost to the soil so the plant becomes stronger and can fight diseases better.\nCheck trees regularly especially during cool and wet weather so you can remove infected parts early and protect the crop.",
+      "te": "ఆకులు లేదా పండ్లపై నల్లటి లేదా ఆకుపచ్చ మచ్చలు కనిపించిన వెంటనే వాటిని తొలగించాలి తద్వారా రోగం ఇతర ఆకులకు మరియు పండ్లకు వ్యాపించదు.\nచెట్టు కింద పడిన ఆకులు మరియు పండ్లు తరచుగా సేకరించి తొలగించాలి ఎందుకంటే వాటిలో ఫంగస్ ఉండి మళ్లీ వ్యాపిస్తుంది.\nవర్షాకాలంలో క్యాప్టాన్ లేదా మైక్లోబుటానిల్ వంటి ఫంగిసైడ్ మందు క్రమం తప్పకుండా స్ప్రే చేయాలి.\nచెట్టులో గాలి మరియు సూర్యకాంతి సరిగా రావడానికి గట్టిగా ఉన్న కొమ్మలను కత్తిరించాలి.\nనీరు పోయేటప్పుడు ఆకులపై కాకుండా వేరుల దగ్గర పోయాలి.\nతోటలో కలుపు మొక్కలు మరియు చెత్త తొలగించి పరిశుభ్రత ఉంచాలి.\nసేంద్రియ ఎరువు లేదా పాడి ఎరువు వేయడం వల్ల చెట్టు బలంగా పెరుగుతుంది.\nప్రత్యేకంగా వర్షాకాలంలో చెట్లను తరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Apple___Black_rot",
+    "disease_name": {
+      "en": "Apple Black Rot",
+      "te": "ఆపిల్ నల్ల కుళ్లు తెగులు"
+    },
+    "cures": {
+      "en": "Remove fruits that show black or rotten spots immediately because infected fruits can spread the disease to other healthy fruits.\nCut infected branches carefully using clean pruning tools so the disease does not move to other branches.\nDestroy infected plant parts by burning or burying them away from the orchard so the fungus cannot survive.\nSpray copper fungicide or myclobutanil during flowering stage to protect flowers and developing fruits.\nRepeat fungicide spraying during rainy or humid weather because moisture increases disease spread.\nRemove fallen fruits and leaves from the soil regularly to reduce fungal growth.\nPrune dense branches so air can move easily through the tree and keep leaves dry.\nVisit the orchard often and observe trees carefully so early infection can be controlled quickly.",
+      "te": "నల్లటి మచ్చలు ఉన్న పండ్లు వెంటనే తొలగించాలి లేకపోతే రోగం ఇతర పండ్లకు వ్యాపిస్తుంది.\nసంక్రమిత కొమ్మలను శుభ్రమైన పరికరాలతో కత్తిరించి తీసేయాలి.\nరోగగ్రస్త భాగాలను తోట బయట కాల్చి లేదా మట్టిలో పూడ్చాలి.\nపుష్పించే సమయంలో కాపర్ లేదా మైక్లోబుటానిల్ ఫంగిసైడ్ స్ప్రే చేయాలి.\nవర్షాకాలంలో తేమ ఎక్కువగా ఉండడంతో మళ్లీ మందు స్ప్రే చేయాలి.\nచెట్టు కింద పడిన పండ్లు మరియు ఆకులు తరచుగా తొలగించాలి.\nగాలి రావడానికి కొమ్మలను కత్తిరించాలి.\nతోటను తరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Apple___Cedar_apple_rust",
+    "disease_name": {
+      "en": "Apple Cedar Rust",
+      "te": "ఆపిల్ తుప్పు తెగులు"
+    },
+    "cures": {
+      "en": "Start spraying fungicide such as myclobutanil when yellow or orange spots appear on leaves so the infection can be controlled early.\nRemove nearby cedar plants if possible because the disease spreads between cedar and apple trees.\nCut infected branches and remove them from the orchard so the infection does not spread further.\nMaintain proper spacing between apple trees to allow good air movement.\nCollect and remove infected leaves from the ground to prevent reinfection.\nWater plants early in the morning so leaves dry quickly during the day.\nApply organic manure to strengthen the plant and improve resistance to diseases.\nMonitor trees regularly during spring season when this disease spreads more.",
+      "te": "ఆకులపై పసుపు లేదా నారింజ రంగు మచ్చలు కనిపించిన వెంటనే ఫంగిసైడ్ స్ప్రే చేయాలి.\nసమీపంలోని సీడర్ మొక్కలు ఉంటే వాటిని తొలగించడం మంచిది.\nసంక్రమిత కొమ్మలను కత్తిరించి తొలగించాలి.\nచెట్ల మధ్య సరైన దూరం ఉంచాలి.\nకింద పడిన ఆకులు తొలగించాలి.\nఉదయం సమయంలో నీరు ఇవ్వడం మంచిది.\nసేంద్రియ ఎరువు వేయాలి.\nవసంతకాలంలో తరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Apple___healthy",
+    "disease_name": {
+      "en": "Healthy Apple",
+      "te": "ఆరోగ్యకరమైన ఆపిల్ చెట్టు"
+    },
+    "cures": {
+      "en": "The plant looks healthy but it is still important to check the tree regularly for any early signs of disease or pest attack.\nProvide balanced fertilizers so the tree grows strong and produces good quality fruits.\nWater the tree regularly but avoid overwatering because excess moisture can lead to diseases.\nPrune dry or weak branches so the plant can grow stronger and healthier.\nKeep the soil around the tree free from weeds and plant waste.\nApply organic manure to improve soil fertility and support plant growth.\nEnsure the tree gets enough sunlight during the day.\nMonitor the orchard regularly so any future problem can be identified early.",
+      "te": "మొక్క ఆరోగ్యంగా ఉన్నప్పటికీ తరచుగా పరిశీలించడం అవసరం.\nసమతుల్య ఎరువులు వేయడం వల్ల చెట్టు బలంగా పెరుగుతుంది.\nఅధికంగా నీరు పోయకుండా జాగ్రత్తగా నీరు ఇవ్వాలి.\nఎండిపోయిన లేదా బలహీన కొమ్మలను తొలగించాలి.\nచెట్టు చుట్టూ కలుపు మొక్కలు తొలగించాలి.\nసేంద్రియ ఎరువు వేయాలి.\nసూర్యకాంతి సరిపడా అందేలా చూడాలి.\nతోటను తరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Blueberry___healthy",
+    "disease_name": {
+      "en": "Healthy Blueberry",
+      "te": "ఆరోగ్యకరమైన బ్లూబెర్రీ మొక్క"
+    },
+    "cures": {
+      "en": "The plant is healthy but regular monitoring is important to detect any pest or disease early.\nMaintain proper soil moisture so the plant grows well without stress.\nAvoid water stagnation around the roots because too much water can damage the plant.\nApply compost or organic fertilizer to improve soil fertility.\nPrune weak branches to encourage better plant growth.\nEnsure the plant receives enough sunlight during the day.\nRemove weeds from around the plant so nutrients are not wasted.\nObserve plants regularly to keep them healthy and productive.",
+      "te": "మొక్క ఆరోగ్యంగా ఉన్నప్పటికీ తరచుగా పరిశీలించాలి.\nమట్టిలో తేమ సరిపడా ఉండాలి.\nనీరు నిల్వ కాకుండా చూడాలి.\nసేంద్రియ ఎరువు వేయాలి.\nబలహీన కొమ్మలను కత్తిరించాలి.\nసూర్యకాంతి అందేలా చూడాలి.\nకలుపు మొక్కలు తొలగించాలి.\nమొక్కలను తరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Cherry_(including_sour)___Powdery_mildew",
+    "disease_name": {
+      "en": "Cherry Powdery Mildew",
+      "te": "చెర్రీ బూజు తెగులు"
+    },
+    "cures": {
+      "en": "Remove leaves that show white powder-like coating because this fungus spreads quickly to nearby leaves.\nSpray sulfur-based fungicide early when you first notice the disease to control its spread.\nKeep proper spacing between plants so air can move freely and reduce moisture on leaves.\nAvoid using too much nitrogen fertilizer because it increases soft leaf growth which attracts disease.\nWater plants at the base instead of spraying water on leaves.\nPrune infected branches and destroy them outside the orchard.\nMaintain orchard cleanliness by removing plant waste.\nInspect plants regularly during warm and humid weather.",
+      "te": "తెల్లటి పొడి లాంటి మచ్చలు ఉన్న ఆకులు వెంటనే తొలగించాలి.\nప్రారంభ దశలో సల్ఫర్ ఫంగిసైడ్ స్ప్రే చేయాలి.\nమొక్కల మధ్య సరైన దూరం ఉంచాలి.\nఅధిక నైట్రోజన్ ఎరువులు వేయకూడదు.\nవేరుల దగ్గర నీరు ఇవ్వాలి.\nసంక్రమిత కొమ్మలు తొలగించాలి.\nతోట పరిశుభ్రంగా ఉంచాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Cherry_(including_sour)___healthy",
+    "disease_name": {
+      "en": "Healthy Cherry",
+      "te": "ఆరోగ్యకరమైన చెర్రీ చెట్టు"
+    },
+    "cures": {
+      "en": "The plant appears healthy but regular care is still necessary to maintain good growth.\nProvide proper irrigation according to soil moisture conditions.\nApply balanced fertilizers for strong plant growth.\nEnsure good sunlight and airflow around the tree.\nRemove weeds from around the plant.\nPrune weak or dry branches regularly.\nKeep the orchard clean and well maintained.\nObserve the tree frequently to detect any early disease signs.",
+      "te": "మొక్క ఆరోగ్యంగా ఉన్నప్పటికీ సంరక్షణ అవసరం.\nసరైన నీరు ఇవ్వాలి.\nసమతుల్య ఎరువులు వేయాలి.\nసూర్యకాంతి మరియు గాలి ఉండాలి.\nకలుపు మొక్కలు తొలగించాలి.\nబలహీన కొమ్మలు కత్తిరించాలి.\nతోట శుభ్రంగా ఉంచాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "disease_name": {
+      "en": "Gray Leaf Spot (Maize)",
+      "te": "మొక్కజొన్న బూడిద రంగు ఆకు మచ్చ తెగులు"
+    },
+    "cures": {
+      "en": "Remove infected leaves that show gray or brown spots to reduce disease spread.\nSpray recommended fungicides such as azoxystrobin or propiconazole.\nPractice crop rotation with other crops so the fungus does not remain in soil.\nMaintain proper spacing between plants.\nAvoid excessive nitrogen fertilizer.\nRemove plant debris after harvest.\nKeep the field clean and well managed.\nMonitor crops regularly during humid weather.",
+      "te": "బూడిద రంగు మచ్చలు ఉన్న ఆకులు తొలగించాలి.\nఫంగిసైడ్ మందు స్ప్రే చేయాలి.\nపంట మార్పిడి చేయాలి.\nమొక్కల మధ్య దూరం ఉంచాలి.\nఅధిక నైట్రోజన్ వేయకూడదు.\nపంట అవశేషాలు తొలగించాలి.\nపొలాన్ని శుభ్రంగా ఉంచాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Corn_(maize)___Common_rust_",
+    "disease_name": {
+      "en": "Common Rust (Maize)",
+      "te": "మొక్కజొన్న తుప్పు తెగులు"
+    },
+    "cures": {
+      "en": "Remove leaves that show rust-colored spots to reduce infection.\nSpray fungicides such as mancozeb when disease appears.\nUse disease-resistant maize varieties if available.\nMaintain proper plant spacing for good airflow.\nApply balanced fertilizers to strengthen the crop.\nAvoid excess irrigation which increases humidity.\nRemove infected plant waste after harvest.\nMonitor the field regularly especially during humid weather.",
+      "te": "తుప్పు రంగు మచ్చలు ఉన్న ఆకులు తొలగించాలి.\nమాంకోజెబ్ ఫంగిసైడ్ స్ప్రే చేయాలి.\nరోగ నిరోధక విత్తనాలు ఉపయోగించాలి.\nమొక్కల మధ్య దూరం ఉంచాలి.\nసమతుల్య ఎరువులు వేయాలి.\nఅధిక నీరు ఇవ్వకూడదు.\nపంట అవశేషాలు తొలగించాలి.\nపొలాన్ని పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "disease_name": {
+      "en": "Northern Leaf Blight (Maize)",
+      "te": "మొక్కజొన్న ఆకు మాడు తెగులు"
+    },
+    "cures": {
+      "en": "Remove infected leaves showing long gray lesions to prevent spread.\nSpray fungicides such as mancozeb or azoxystrobin during early infection.\nPractice crop rotation with non-maize crops.\nMaintain proper plant spacing to improve airflow.\nAvoid overcrowding of plants in the field.\nApply balanced fertilizers to maintain plant health.\nRemove crop residues after harvest.\nObserve crops regularly especially during rainy season.",
+      "te": "పొడవైన మచ్చలు ఉన్న ఆకులు తొలగించాలి.\nఫంగిసైడ్ స్ప్రే చేయాలి.\nపంట మార్పిడి చేయాలి.\nమొక్కల మధ్య దూరం ఉంచాలి.\nమొక్కలు గట్టిగా నాటకూడదు.\nసమతుల్య ఎరువులు వేయాలి.\nపంట అవశేషాలు తొలగించాలి.\nవర్షాకాలంలో పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Corn_(maize)___healthy",
+    "disease_name": {
+      "en": "Healthy Corn",
+      "te": "ఆరోగ్యకరమైన మొక్కజొన్న పంట"
+    },
+    "cures": {
+      "en": "The maize crop currently looks healthy, but farmers should still check the field regularly so that any early disease or pest problem can be noticed quickly.\nProvide regular irrigation based on soil moisture so the plants do not suffer from drought stress or excess water.\nApply balanced fertilizers such as nitrogen, phosphorus and potassium so the crop grows strong and produces better yield.\nKeep the field free from weeds because weeds compete with maize plants for nutrients, sunlight and water.\nEnsure proper spacing between plants so air can move freely and reduce chances of disease.\nAdd organic manure or compost to improve soil fertility and maintain healthy plant growth.\nRemove plant waste and dry leaves from the field to keep the farm clean and reduce pest problems.\nWalk through the field frequently and observe the plants so that any future problem can be controlled early.",
+      "te": "మొక్కజొన్న పంట ప్రస్తుతం ఆరోగ్యంగా ఉన్నప్పటికీ పొలాన్ని తరచుగా పరిశీలించడం అవసరం.\nమట్టి తేమను బట్టి సరైన సమయంలో నీరు ఇవ్వాలి.\nనైట్రోజన్, ఫాస్పరస్, పొటాషియం వంటి సమతుల్య ఎరువులు వేయాలి.\nకలుపు మొక్కలు తొలగించాలి ఎందుకంటే అవి పంటకు పోషకాలు పోటీ పడతాయి.\nమొక్కల మధ్య సరైన దూరం ఉంచాలి.\nసేంద్రియ ఎరువు వేయడం వల్ల మట్టి సారం పెరుగుతుంది.\nపంట అవశేషాలు మరియు ఎండిన ఆకులు తొలగించాలి.\nపొలాన్ని తరచుగా పరిశీలించడం మంచిది."
+    }
+  },
+  {
+    "class_name": "Grape___Black_rot",
+    "disease_name": {
+      "en": "Grape Black Rot",
+      "te": "ద్రాక్ష నల్ల కుళ్లు తెగులు"
+    },
+    "cures": {
+      "en": "Remove grapes that show black spots or rotting because infected fruits can spread the disease quickly to nearby bunches.\nCut infected leaves and branches carefully and remove them from the vineyard so the fungus cannot spread further.\nCollect fallen fruits and leaves from the ground regularly because the fungus survives in plant waste.\nSpray fungicides such as myclobutanil or mancozeb during early infection to protect healthy fruits.\nEnsure proper pruning of vines so sunlight and air can move freely through the plants.\nAvoid excessive watering because too much moisture increases fungal growth.\nKeep the vineyard clean by removing weeds and plant waste.\nInspect grape plants regularly especially during rainy weather when disease spreads quickly.",
+      "te": "నల్లటి మచ్చలు ఉన్న ద్రాక్ష పండ్లు వెంటనే తొలగించాలి.\nసంక్రమిత ఆకులు మరియు కొమ్మలు కత్తిరించి తీసేయాలి.\nకింద పడిన పండ్లు మరియు ఆకులు తొలగించాలి.\nమైక్లోబుటానిల్ లేదా మాంకోజెబ్ ఫంగిసైడ్ స్ప్రే చేయాలి.\nవేళ్లను సరిగ్గా కత్తిరించి గాలి ప్రవాహం ఉండేలా చేయాలి.\nఅధికంగా నీరు ఇవ్వకూడదు.\nతోటను శుభ్రంగా ఉంచాలి.\nవర్షాకాలంలో తరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Grape___Esca_(Black_Measles)",
+    "disease_name": {
+      "en": "Grape Black Measles (Esca)",
+      "te": "ద్రాక్ష ఎస్కా తెగులు (నల్ల మచ్చలు)"
+    },
+    "cures": {
+      "en": "Identify vines that show black spots on leaves or fruits and remove severely infected vines to stop disease spread.\nPrune infected branches carefully during dry weather so the fungus does not spread through moisture.\nDisinfect pruning tools with bleach or soap water after each cut to avoid spreading the disease.\nApply protective fungicide on pruning wounds to protect the plant from infection.\nMaintain proper irrigation so vines do not suffer from water stress.\nApply balanced fertilizers to keep the vines strong and healthy.\nKeep the vineyard clean by removing plant waste and weeds.\nMonitor vines regularly and remove infected parts early before the disease spreads widely.",
+      "te": "నల్లటి మచ్చలు ఉన్న వేళ్లను గుర్తించి తీవ్రమైన సంక్రమణ ఉంటే తొలగించాలి.\nఎండ ఉన్న సమయంలో సంక్రమిత కొమ్మలను కత్తిరించాలి.\nప్రతి సారి పరికరాలను శుభ్రపరచాలి.\nకత్తిరించిన చోట ఫంగిసైడ్ ఉపయోగించాలి.\nసరైన నీరు ఇవ్వాలి.\nసమతుల్య ఎరువులు వేయాలి.\nతోటను పరిశుభ్రంగా ఉంచాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+    "disease_name": {
+      "en": "Grape Leaf Blight",
+      "te": "ద్రాక్ష ఆకు మాడు తెగులు"
+    },
+    "cures": {
+      "en": "Remove leaves that show brown or black spots because infected leaves spread the disease quickly to healthy leaves.\nCollect fallen leaves and destroy them so the fungus cannot survive in the soil.\nSpray fungicides such as mancozeb or copper-based sprays during early stages of infection.\nPrune grape vines so air circulation improves and leaves dry faster after rain.\nAvoid overhead irrigation which keeps leaves wet for long periods.\nApply organic manure to improve soil health and plant strength.\nMaintain proper spacing between vines so sunlight can reach all parts of the plant.\nInspect the vineyard regularly especially during humid weather.",
+      "te": "గోధుమ లేదా నల్లటి మచ్చలు ఉన్న ఆకులు తొలగించాలి.\nకింద పడిన ఆకులు తొలగించాలి.\nమాంకోజెబ్ లేదా కాపర్ ఫంగిసైడ్ స్ప్రే చేయాలి.\nవేళ్లను కత్తిరించి గాలి ప్రవాహం మెరుగుపరచాలి.\nఆకులపై నీరు పోయకుండా చూడాలి.\nసేంద్రియ ఎరువు వేయాలి.\nమొక్కల మధ్య దూరం ఉంచాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Grape___healthy",
+    "disease_name": {
+      "en": "Healthy Grape",
+      "te": "ఆరోగ్యకరమైన ద్రాక్ష తోట"
+    },
+    "cures": {
+      "en": "The grape vine appears healthy but farmers should continue checking plants regularly to detect early disease symptoms.\nProvide proper irrigation so the vines receive enough water but avoid water stagnation.\nApply balanced fertilizers and organic manure to support healthy growth.\nPrune old or weak branches so the plant can produce strong new shoots.\nMaintain proper spacing between vines to ensure good airflow.\nRemove weeds around the vineyard so nutrients are not wasted.\nKeep the vineyard clean by removing fallen leaves and plant debris.\nObserve plants frequently so future pest or disease problems can be controlled early.",
+      "te": "ద్రాక్ష మొక్క ఆరోగ్యంగా ఉన్నప్పటికీ తరచుగా పరిశీలించాలి.\nసరైన నీరు ఇవ్వాలి కానీ నీరు నిల్వ కాకుండా చూడాలి.\nసమతుల్య ఎరువులు మరియు సేంద్రియ ఎరువు వేయాలి.\nపాత కొమ్మలను కత్తిరించాలి.\nమొక్కల మధ్య సరైన దూరం ఉంచాలి.\nకలుపు మొక్కలు తొలగించాలి.\nతోటను శుభ్రంగా ఉంచాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Orange___Haunglongbing_(Citrus_greening)",
+    "disease_name": {
+      "en": "Citrus Greening",
+      "te": "నిమ్మ/నారింజ ఆకు పచ్చ తెగులు"
+    },
+    "cures": {
+      "en": "If a citrus tree shows yellow leaves, small fruits and poor growth, remove the infected tree quickly because this disease spreads very fast to nearby plants.\nControl psyllid insects because they carry and spread this disease from one plant to another.\nSpray recommended insecticides to reduce psyllid population in the orchard.\nPlant only certified healthy nursery plants when starting a new orchard.\nMaintain good nutrition by applying balanced fertilizers so the tree remains strong.\nRemove weeds and unnecessary plants around the orchard which may host insects.\nKeep the orchard clean by removing plant waste and dry branches.\nInspect citrus plants regularly so infected trees can be removed early.",
+      "te": "ఆకులు పసుపు రంగులోకి మారడం మరియు పండ్లు చిన్నగా ఉండడం కనిపిస్తే ఆ చెట్టును వెంటనే తొలగించాలి.\nప్సిల్లిడ్ పురుగులు ఈ రోగాన్ని వ్యాపింపజేస్తాయి కాబట్టి వాటిని నియంత్రించాలి.\nసిఫార్సు చేసిన ఇన్సెక్టిసైడ్ మందు స్ప్రే చేయాలి.\nకొత్త తోటలు పెట్టేటప్పుడు ఆరోగ్యకరమైన నర్సరీ మొక్కలు మాత్రమే నాటాలి.\nసమతుల్య ఎరువులు వేయాలి.\nకలుపు మొక్కలు తొలగించాలి.\nతోటను శుభ్రంగా ఉంచాలి.\nచెట్లను తరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Peach___Bacterial_spot",
+    "disease_name": {
+      "en": "Peach Bacterial Spot",
+      "te": "పీచ్ బాక్టీరియా మచ్చ తెగులు"
+    },
+    "cures": {
+      "en": "Remove leaves and fruits that show dark spots so the infection does not spread to healthy parts of the tree.\nSpray copper-based bactericide during early infection stage to control the disease.\nAvoid watering leaves directly because wet leaves increase bacterial spread.\nPrune dense branches so sunlight and air can move through the tree.\nCollect fallen leaves and infected fruits from the ground and destroy them.\nUse healthy planting material when planting new trees.\nMaintain balanced fertilizer application to keep the plant strong.\nInspect trees frequently especially during warm and humid weather.",
+      "te": "మచ్చలు ఉన్న ఆకులు మరియు పండ్లు తొలగించాలి.\nప్రారంభ దశలో కాపర్ బాక్టీరియా మందు స్ప్రే చేయాలి.\nఆకులపై నీరు పోయకూడదు.\nగాలి రావడానికి కొమ్మలను కత్తిరించాలి.\nకింద పడిన ఆకులు తొలగించాలి.\nఆరోగ్యకర మొక్కలు నాటాలి.\nసమతుల్య ఎరువులు వేయాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Peach___healthy",
+    "disease_name": {
+      "en": "Healthy Peach",
+      "te": "ఆరోగ్యకరమైన పీచ్ చెట్టు"
+    },
+    "cures": {
+      "en": "The peach plant appears healthy but farmers should still monitor the tree regularly.\nProvide proper irrigation depending on soil moisture conditions.\nApply balanced fertilizers to maintain healthy growth.\nEnsure the plant receives enough sunlight during the day.\nPrune weak or dry branches to encourage new growth.\nRemove weeds around the tree to reduce pest problems.\nAdd organic manure to improve soil fertility.\nObserve the orchard regularly to identify any future disease early.",
+      "te": "పీచ్ చెట్టు ఆరోగ్యంగా ఉన్నప్పటికీ తరచుగా పరిశీలించాలి.\nసరైన సమయంలో నీరు ఇవ్వాలి.\nసమతుల్య ఎరువులు వేయాలి.\nసూర్యకాంతి సరిపడా ఉండాలి.\nబలహీన కొమ్మలు తొలగించాలి.\nకలుపు మొక్కలు తీసేయాలి.\nసేంద్రియ ఎరువు వేయాలి.\nతోటను తరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Pepper,_bell___Bacterial_spot",
+    "disease_name": {
+      "en": "Bell Pepper Bacterial Spot",
+      "te": "క్యాప్సికమ్ బాక్టీరియా మచ్చ తెగులు"
+    },
+    "cures": {
+      "en": "Remove infected leaves and fruits from pepper plants to stop the disease from spreading.\nSpray copper-based bactericide regularly during early infection.\nAvoid watering leaves directly because moisture increases bacterial growth.\nUse disease-free seeds or seedlings when planting.\nMaintain proper spacing between plants for good airflow.\nRemove plant waste and infected debris from the field.\nPractice crop rotation to reduce disease buildup in soil.\nInspect plants regularly especially during rainy season.",
+      "te": "సంక్రమిత ఆకులు మరియు పండ్లు తొలగించాలి.\nకాపర్ బాక్టీరియా మందు స్ప్రే చేయాలి.\nఆకులపై నీరు పోయకూడదు.\nఆరోగ్యకర విత్తనాలు ఉపయోగించాలి.\nమొక్కల మధ్య దూరం ఉంచాలి.\nపంట అవశేషాలు తొలగించాలి.\nపంట మార్పిడి చేయాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Pepper,_bell___healthy",
+    "disease_name": {
+      "en": "Healthy Bell Pepper",
+      "te": "ఆరోగ్యకరమైన క్యాప్సికమ్ మొక్క"
+    },
+    "cures": {
+      "en": "The pepper plant appears healthy but farmers should maintain proper care to keep the crop productive.\nProvide regular irrigation depending on soil moisture.\nApply balanced fertilizers for better growth and fruit production.\nRemove weeds from the field to reduce pest and disease risk.\nEnsure plants receive enough sunlight.\nMaintain proper spacing between plants.\nAdd organic manure to improve soil fertility.\nInspect the crop regularly for early signs of pests or disease.",
+      "te": "మిరప మొక్క ఆరోగ్యంగా ఉన్నప్పటికీ సరైన సంరక్షణ అవసరం.\nసరైన నీరు ఇవ్వాలి.\nసమతుల్య ఎరువులు వేయాలి.\nకలుపు మొక్కలు తొలగించాలి.\nసూర్యకాంతి ఉండాలి.\nమొక్కల మధ్య దూరం ఉంచాలి.\nసేంద్రియ ఎరువు వేయాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Potato___Early_blight",
+    "disease_name": {
+      "en": "Potato Early Blight",
+      "te": "బంగాళాదుంప ముందస్తు మాడు తెగులు"
+    },
+    "cures": {
+      "en": "Remove infected leaves showing brown spots to stop the disease from spreading.\nSpray fungicides such as mancozeb or chlorothalonil during early stages.\nAvoid overhead irrigation because wet leaves increase fungal growth.\nPractice crop rotation with non-potato crops.\nMaintain proper plant spacing for good airflow.\nRemove plant debris after harvest to reduce fungus in soil.\nApply balanced fertilizers to keep plants strong.\nInspect potato plants frequently especially during warm humid weather.",
+      "te": "గోధుమ మచ్చలు ఉన్న ఆకులు తొలగించాలి.\nఫంగిసైడ్ మందు స్ప్రే చేయాలి.\nఆకులపై నీరు పోయకూడదు.\nపంట మార్పిడి చేయాలి.\nమొక్కల మధ్య దూరం ఉంచాలి.\nపంట అవశేషాలు తొలగించాలి.\nసమతుల్య ఎరువులు వేయాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Potato___Late_blight",
+    "disease_name": {
+      "en": "Potato Late Blight",
+      "te": "బంగాళాదుంప చివరి మాడు తెగులు"
+    },
+    "cures": {
+      "en": "Remove infected plants immediately because this disease spreads very quickly in cool and wet weather.\nSpray fungicides such as metalaxyl or mancozeb to control infection.\nAvoid excessive irrigation and ensure proper drainage in the field.\nUse certified healthy seed potatoes when planting.\nMaintain proper spacing between plants.\nRemove infected leaves and plant debris from the field.\nMonitor crops regularly during rainy weather.\nHarvest fruits early if infection spreads widely.",
+      "te": "సంక్రమిత మొక్కలు వెంటనే తొలగించాలి.\nఫంగిసైడ్ మందు స్ప్రే చేయాలి.\nఅధిక నీరు ఇవ్వకూడదు.\nఆరోగ్యకర విత్తనాలు ఉపయోగించాలి.\nమొక్కల మధ్య దూరం ఉంచాలి.\nసంక్రమిత ఆకులు తొలగించాలి.\nవర్షాకాలంలో పరిశీలించాలి.\nఅవసరమైతే పంటను ముందుగానే కోయాలి."
+    }
+  },
+  {
+    "class_name": "Potato___healthy",
+    "disease_name": {
+      "en": "Healthy Potato",
+      "te": "ఆరోగ్యకరమైన బంగాళాదుంప పంట"
+    },
+    "cures": {
+      "en": "The potato crop looks healthy but farmers should still monitor the field regularly.\nProvide irrigation according to soil moisture to avoid drought stress.\nApply balanced fertilizers including nitrogen, phosphorus and potassium.\nRemove weeds from the field to reduce pest and disease risk.\nEnsure proper sunlight reaches the crop.\nMaintain good soil drainage to prevent root diseases.\nAdd organic manure to improve soil fertility.\nObserve the crop frequently to detect early pest or disease problems.",
+      "te": "బంగాళాదుంప పంట ఆరోగ్యంగా ఉన్నప్పటికీ తరచుగా పరిశీలించాలి.\nసరైన నీరు ఇవ్వాలి.\nసమతుల్య ఎరువులు వేయాలి.\nకలుపు మొక్కలు తొలగించాలి.\nసూర్యకాంతి అందేలా చూడాలి.\nమంచి నీటి పారుదల ఉండాలి.\nసేంద్రియ ఎరువు వేయాలి.\nపంటను తరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Raspberry___healthy",
+    "disease_name": {
+      "en": "Healthy Raspberry",
+      "te": "ఆరోగ్యకరమైన రాస్ప్‌బెర్రీ మొక్క"
+    },
+    "cures": {
+      "en": "The raspberry plant appears healthy but farmers should continue monitoring the crop regularly.\nProvide sufficient irrigation based on soil moisture conditions.\nApply organic manure or compost to maintain soil fertility.\nPrune old or weak branches to encourage new healthy growth.\nEnsure proper sunlight reaches the plant.\nMaintain good spacing between plants for airflow.\nRemove weeds around the crop.\nInspect plants regularly to keep them healthy and productive.",
+      "te": "రాస్ప్‌బెర్రీ మొక్క ఆరోగ్యంగా ఉన్నప్పటికీ తరచుగా పరిశీలించాలి.\nసరైన నీరు ఇవ్వాలి.\nసేంద్రియ ఎరువు వేయాలి.\nపాత కొమ్మలు కత్తిరించాలి.\nసూర్యకాంతి అందేలా చూడాలి.\nమొక్కల మధ్య దూరం ఉంచాలి.\nకలుపు మొక్కలు తొలగించాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Soybean___healthy",
+    "disease_name": {
+      "en": "Healthy Soybean",
+      "te": "ఆరోగ్యకరమైన సోయాబీన్ పంట"
+    },
+    "cures": {
+      "en": "The soybean crop looks healthy but farmers should still observe the field regularly.\nProvide irrigation based on rainfall and soil moisture conditions.\nApply recommended fertilizers to support healthy plant growth.\nRemove weeds that compete with soybean plants for nutrients.\nMaintain proper plant spacing for good airflow.\nAdd organic manure to improve soil fertility.\nRemove plant waste from the field after harvest.\nMonitor crops frequently to detect early pest or disease issues.",
+      "te": "సోయాబీన్ పంట ఆరోగ్యంగా ఉన్నప్పటికీ తరచుగా పరిశీలించాలి.\nవర్షపాతం మరియు మట్టి తేమను బట్టి నీరు ఇవ్వాలి.\nసిఫార్సు చేసిన ఎరువులు వేయాలి.\nకలుపు మొక్కలు తొలగించాలి.\nమొక్కల మధ్య దూరం ఉంచాలి.\nసేంద్రియ ఎరువు వేయాలి.\nపంట అవశేషాలు తొలగించాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Squash___Powdery_mildew",
+    "disease_name": {
+      "en": "Squash Powdery Mildew",
+      "te": "సొర/గుమ్మడి జాతి బూజు తెగులు"
+    },
+    "cures": {
+      "en": "Remove leaves that show white powder-like coating because the disease spreads quickly to nearby healthy leaves.\nSpray fungicides such as sulfur or potassium bicarbonate early when you notice the first symptoms.\nEnsure plants have enough spacing so fresh air can move between leaves and reduce moisture.\nAvoid watering leaves directly because wet leaves encourage fungal growth.\nRemove infected plant parts and destroy them outside the field.\nApply balanced fertilizers so plants remain strong and healthy.\nKeep the field clean by removing weeds and plant debris.\nInspect plants regularly especially during warm and humid weather.",
+      "te": "తెల్లటి పొడి మచ్చలు ఉన్న ఆకులు వెంటనే తొలగించాలి.\nసల్ఫర్ లేదా ఇతర ఫంగిసైడ్ మందు స్ప్రే చేయాలి.\nమొక్కల మధ్య సరైన దూరం ఉంచాలి.\nఆకులపై నీరు పోయకూడదు.\nసంక్రమిత భాగాలు తొలగించాలి.\nసమతుల్య ఎరువులు వేయాలి.\nపొలాన్ని శుభ్రంగా ఉంచాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Strawberry___Leaf_scorch",
+    "disease_name": {
+      "en": "Strawberry Leaf Scorch",
+      "te": "స్ట్రాబెర్రీ ఆకు మాడు తెగులు"
+    },
+    "cures": {
+      "en": "Remove leaves that show reddish or brown burn-like spots so the disease does not spread further.\nCollect and destroy infected leaves from the ground regularly.\nSpray recommended fungicides such as captan or myclobutanil during early infection.\nAvoid overcrowding of plants because dense plants increase humidity.\nUse drip irrigation instead of overhead watering to keep leaves dry.\nApply organic manure to maintain plant strength.\nRemove weeds and plant waste from the field.\nMonitor strawberry plants regularly especially during warm humid weather.",
+      "te": "గోధుమ మచ్చలు ఉన్న ఆకులు తొలగించాలి.\nకింద పడిన ఆకులు తొలగించాలి.\nఫంగిసైడ్ మందు స్ప్రే చేయాలి.\nమొక్కలు గట్టిగా నాటకూడదు.\nడ్రిప్ ఇరిగేషన్ ఉపయోగించడం మంచిది.\nసేంద్రియ ఎరువు వేయాలి.\nపొలాన్ని శుభ్రంగా ఉంచాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Strawberry___healthy",
+    "disease_name": {
+      "en": "Healthy Strawberry",
+      "te": "ఆరోగ్యకరమైన స్ట్రాబెర్రీ మొక్క"
+    },
+    "cures": {
+      "en": "The strawberry plant looks healthy but farmers should still observe the crop regularly.\nProvide irrigation based on soil moisture so plants do not suffer from water stress.\nApply balanced fertilizers to support healthy growth and fruit production.\nRemove weeds from the field to reduce pest and disease problems.\nEnsure plants receive enough sunlight during the day.\nMaintain proper spacing between plants to improve airflow.\nAdd organic manure or compost to improve soil fertility.\nInspect the crop frequently so any future problem can be controlled early.",
+      "te": "స్ట్రాబెర్రీ మొక్క ఆరోగ్యంగా ఉన్నప్పటికీ తరచుగా పరిశీలించాలి.\nసరైన సమయంలో నీరు ఇవ్వాలి.\nసమతుల్య ఎరువులు వేయాలి.\nకలుపు మొక్కలు తొలగించాలి.\nసూర్యకాంతి ఉండాలి.\nమొక్కల మధ్య దూరం ఉంచాలి.\nసేంద్రియ ఎరువు వేయాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Tomato___Bacterial_spot",
+    "disease_name": {
+      "en": "Tomato Bacterial Spot",
+      "te": "టమోటా బాక్టీరియా మచ్చ తెగులు"
+    },
+    "cures": {
+      "en": "Remove leaves and fruits showing dark bacterial spots so the infection does not spread further.\nSpray copper-based bactericide during early stages of the disease.\nAvoid overhead watering because wet leaves increase bacterial growth.\nUse healthy seeds or seedlings for planting new crops.\nMaintain proper spacing between tomato plants to allow airflow.\nRemove infected plant debris from the field.\nPractice crop rotation to reduce disease buildup in soil.\nCheck plants regularly especially during rainy season.",
+      "te": "మచ్చలు ఉన్న ఆకులు మరియు పండ్లు తొలగించాలి.\nకాపర్ బాక్టీరియా మందు స్ప్రే చేయాలి.\nఆకులపై నీరు పోయకూడదు.\nఆరోగ్యకర విత్తనాలు ఉపయోగించాలి.\nమొక్కల మధ్య దూరం ఉంచాలి.\nసంక్రమిత అవశేషాలు తొలగించాలి.\nపంట మార్పిడి చేయాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Tomato___Early_blight",
+    "disease_name": {
+      "en": "Tomato Early Blight",
+      "te": "టమోటా ముందస్తు మాడు తెగులు"
+    },
+    "cures": {
+      "en": "Remove infected leaves showing brown circular spots to prevent the disease from spreading.\nSpray fungicides such as mancozeb or chlorothalonil during early infection.\nAvoid watering leaves directly because wet leaves encourage fungal growth.\nMaintain proper spacing between tomato plants.\nApply balanced fertilizers to keep plants strong.\nRemove plant debris after harvest to reduce fungus in soil.\nKeep the field clean and free from weeds.\nInspect plants regularly especially during warm humid weather.",
+      "te": "గోధుమ మచ్చలు ఉన్న ఆకులు తొలగించాలి.\nఫంగిసైడ్ మందు స్ప్రే చేయాలి.\nఆకులపై నీరు పోయకూడదు.\nమొక్కల మధ్య దూరం ఉంచాలి.\nసమతుల్య ఎరువులు వేయాలి.\nపంట అవశేషాలు తొలగించాలి.\nపొలాన్ని శుభ్రంగా ఉంచాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Tomato___Late_blight",
+    "disease_name": {
+      "en": "Tomato Late Blight",
+      "te": "టమోటా చివరి మాడు తెగులు"
+    },
+    "cures": {
+      "en": "Remove infected plants quickly because this disease spreads very fast in cool and wet weather.\nSpray fungicides such as metalaxyl or mancozeb to control infection.\nAvoid excessive irrigation and maintain good drainage in the field.\nUse certified healthy seeds or seedlings.\nMaintain proper plant spacing to allow airflow.\nRemove infected leaves and plant debris from the field.\nMonitor crops regularly especially during rainy weather.\nHarvest fruits early if infection spreads rapidly.",
+      "te": "సంక్రమిత మొక్కలు వెంటనే తొలగించాలి.\nఫంగిసైడ్ మందు స్ప్రే చేయాలి.\nఅధిక నీరు ఇవ్వకూడదు.\nఆరోగ్యకర విత్తనాలు ఉపయోగించాలి.\nమొక్కల మధ్య దూరం ఉంచాలి.\nసంక్రమిత ఆకులు తొలగించాలి.\nవర్షాకాలంలో పరిశీలించాలి.\nఅవసరమైతే ముందుగా కోత చేయాలి."
+    }
+  },
+  {
+    "class_name": "Tomato___Leaf_Mold",
+    "disease_name": {
+      "en": "Tomato Leaf Mold",
+      "te": "టమోటా ఆకు బూజు తెగులు"
+    },
+    "cures": {
+      "en": "Remove infected leaves that show yellow or moldy patches to stop the disease spread.\nImprove ventilation inside the crop area especially in greenhouses.\nSpray fungicides such as chlorothalonil during early infection.\nAvoid excessive humidity around plants.\nWater plants at the base instead of spraying leaves.\nMaintain proper spacing between plants.\nRemove plant debris from the field.\nInspect plants regularly so early infection can be controlled quickly.",
+      "te": "మచ్చలు ఉన్న ఆకులు తొలగించాలి.\nగాలి ప్రవాహం మెరుగుపరచాలి.\nఫంగిసైడ్ మందు స్ప్రే చేయాలి.\nఅధిక తేమ నివారించాలి.\nవేరుల దగ్గర నీరు ఇవ్వాలి.\nమొక్కల మధ్య దూరం ఉంచాలి.\nఅవశేషాలు తొలగించాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Tomato___Septoria_leaf_spot",
+    "disease_name": {
+      "en": "Tomato Septoria Leaf Spot",
+      "te": "టమోటా సెప్టోరియా ఆకు మచ్చ తెగులు"
+    },
+    "cures": {
+      "en": "Remove infected leaves that show small round spots with dark edges.\nSpray fungicides such as mancozeb or chlorothalonil early in the infection.\nAvoid overhead irrigation to keep leaves dry.\nMaintain proper plant spacing for airflow.\nRemove plant debris and infected leaves from the field.\nPractice crop rotation with non-tomato crops.\nApply balanced fertilizers to keep plants strong.\nInspect plants regularly especially during humid weather.",
+      "te": "మచ్చలు ఉన్న ఆకులు తొలగించాలి.\nఫంగిసైడ్ మందు స్ప్రే చేయాలి.\nఆకులపై నీరు పోయకూడదు.\nమొక్కల మధ్య దూరం ఉంచాలి.\nఅవశేషాలు తొలగించాలి.\nపంట మార్పిడి చేయాలి.\nసమతుల్య ఎరువులు వేయాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Tomato___Spider_mites Two-spotted_spider_mite",
+    "disease_name": {
+      "en": "Tomato Spider Mites",
+      "te": "టమోటా ఎర్ర నల్లి పురుగులు"
+    },
+    "cures": {
+      "en": "Look for tiny mites and yellow spots on leaves and remove heavily infected leaves.\nSpray neem oil or recommended miticides to control spider mites.\nWash leaves gently with water to remove mites from the surface.\nMaintain proper humidity because mites grow faster in very dry conditions.\nEncourage natural predators like lady beetles that feed on mites.\nAvoid excessive chemical sprays that kill beneficial insects.\nKeep the field clean by removing plant debris.\nInspect plants regularly so mite populations can be controlled early.",
+      "te": "సూక్ష్మ పురుగులు కనిపిస్తే ఆకులు తొలగించాలి.\nనీమ్ఆయిల్ లేదా ఇతర మందు స్ప్రే చేయాలి.\nఆకులను నీటితో కడగాలి.\nతేమ కొంత ఉంచాలి.\nప్రाकृतिक శత్రువులను ప్రోత్సహించాలి.\nఅధిక మందులు ఉపయోగించకూడదు.\nపొలాన్ని శుభ్రంగా ఉంచాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Tomato___Target_Spot",
+    "disease_name": {
+      "en": "Tomato Target Spot",
+      "te": "టమోటా టార్గెట్ స్పాట్ (వలయాకార మచ్చలు)"
+    },
+    "cures": {
+      "en": "Remove infected leaves that show circular brown spots to stop disease spread.\nSpray fungicides such as mancozeb or chlorothalonil when symptoms appear.\nMaintain good airflow by keeping proper spacing between plants.\nAvoid overhead watering that keeps leaves wet for long periods.\nRemove plant debris and infected leaves from the field.\nApply balanced fertilizers to maintain plant health.\nKeep the field clean and weed free.\nInspect plants regularly to detect early infection.",
+      "te": "మచ్చలు ఉన్న ఆకులు తొలగించాలి.\nఫంగిసైడ్ మందు స్ప్రే చేయాలి.\nమొక్కల మధ్య దూరం ఉంచాలి.\nఆకులపై నీరు పోయకూడదు.\nఅవశేషాలు తొలగించాలి.\nసమతుల్య ఎరువులు వేయాలి.\nపొలాన్ని శుభ్రంగా ఉంచాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "disease_name": {
+      "en": "Tomato Yellow Leaf Curl Virus",
+      "te": "టమోటా ఆకు ముడత తెగులు (జెమిని వైరస్)"
+    },
+    "cures": {
+      "en": "Remove infected plants that show yellow curled leaves because the virus spreads quickly.\nControl whitefly insects because they carry this virus from plant to plant.\nUse yellow sticky traps to monitor and reduce whitefly population.\nSpray recommended insecticides to control the vector insects.\nPlant virus-resistant tomato varieties if available.\nRemove weeds that may host whiteflies.\nMaintain proper nutrition so plants remain strong.\nInspect plants regularly and remove infected ones early.",
+      "te": "పసుపు మడిచిన ఆకులు ఉన్న మొక్కలు తొలగించాలి.\nవైట్ ఫ్లై పురుగులను నియంత్రించాలి.\nపసుపు స్టిక్కీ ట్రాప్స్ ఉపయోగించాలి.\nఇన్సెక్టిసైడ్ మందు స్ప్రే చేయాలి.\nరోగ నిరోధక రకాలు ఉపయోగించాలి.\nకలుపు మొక్కలు తొలగించాలి.\nసమతుల్య ఎరువులు వేయాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Tomato___Tomato_mosaic_virus",
+    "disease_name": {
+      "en": "Tomato Mosaic Virus",
+      "te": "టమోటా మోసాయిక్ వైరస్"
+    },
+    "cures": {
+      "en": "Remove infected plants showing mosaic patterns on leaves because the virus spreads easily.\nDisinfect tools and hands after touching infected plants.\nAvoid touching healthy plants after handling infected plants.\nUse certified virus-free seeds when planting.\nControl insect pests that spread the virus.\nRemove weeds around tomato plants.\nMaintain field hygiene and cleanliness.\nInspect plants frequently and remove infected ones early.",
+      "te": "మోసాయిక్ మచ్చలు ఉన్న మొక్కలు తొలగించాలి.\nపరికరాలు శుభ్రపరచాలి.\nసంక్రమిత మొక్కలు తాకిన తర్వాత ఇతర మొక్కలు తాకకూడదు.\nఆరోగ్యకర విత్తనాలు ఉపయోగించాలి.\nపురుగులను నియంత్రించాలి.\nకలుపు మొక్కలు తొలగించాలి.\nపొలాన్ని శుభ్రంగా ఉంచాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  },
+  {
+    "class_name": "Tomato___healthy",
+    "disease_name": {
+      "en": "Healthy Tomato",
+      "te": "ఆరోగ్యకరమైన టమోటా మొక్క"
+    },
+    "cures": {
+      "en": "The tomato plant appears healthy but farmers should continue monitoring the crop regularly.\nProvide irrigation according to soil moisture conditions.\nApply balanced fertilizers for good plant growth and fruit yield.\nEnsure proper sunlight reaches the plants.\nMaintain good spacing between plants for airflow.\nRemove weeds from the field regularly.\nAdd organic manure to improve soil fertility.\nObserve plants frequently so any disease or pest problem can be detected early.",
+      "te": "టమోటా మొక్క ఆరోగ్యంగా ఉన్నప్పటికీ తరచుగా పరిశీలించాలి.\nసరైన సమయంలో నీరు ఇవ్వాలి.\nసమతుల్య ఎరువులు వేయాలి.\nసూర్యకాంతి ఉండాలి.\nమొక్కల మధ్య దూరం ఉంచాలి.\nకలుపు మొక్కలు తొలగించాలి.\nసేంద్రియ ఎరువు వేయాలి.\nతరచుగా పరిశీలించాలి."
+    }
+  }
+]
